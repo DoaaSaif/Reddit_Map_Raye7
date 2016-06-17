@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Reye7</string>
+    <string name="action_settings">Settings</string>
+    <string name="error_loading_posts">Error loading posts</string>
+    <string name="get_all_posts">Get_All_Posts</string>
+    <string name="get_post_comments">Get_Post_Comments</string>
+    <string name="vote_post_up">Vote_Post_Up</string>
+    <string name="vote_post_down">Vote_Post_Down</string>
+    <string name="ok">OK</string>
+    <string name="date">Date:  </string>
+    <string name="cancel">Cancel</string>
+    <string name="post_title">Post title</string>
+    <string name="post_description">Post description</string>
+    <string name="post_image_url">Image URL</string>
+    <string name="error_loading_comments">Error Loading Cooments</string>
+    <string name="submit_post">Submit post</string>
+    <string name="submit_comment">Submit comment</string>
+    <string name="post">Post</string>
+    <string name="error_submit_comment">Error submit comment</string>
+    <string name="title_activity_trip">Map</string>
+    <string name="from">from</string>
+    <string name="to">to</string>
+    <string name="currentLocation">Current location</string>
+</resources>
